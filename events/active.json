@@ -1,0 +1,39 @@
+{
+  "slug": "miraxxo-caterers-events-malappuram",
+  "name": "Miraxxo Caterers Events",
+  "shortName": "Miraxxo",
+  "descriptor": "Catering & Events",
+  "address": "DownHill CherattukkuzhiRoad, near Dr.SivaramanClinic, Up Hill, Malappuram, Keralam 676519",
+  "area": "Malappuram",
+  "city": "Malappuram",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "676519",
+  "geo": {
+    "lat": 11.0490019,
+    "lng": 76.07616019999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=3176584507748830624",
+  "phone": "+91 94472 09038",
+  "whatsapp": "919447209038",
+  "hours": "Open 10 am – 7 pm · closed Sun",
+  "opens": "10:00",
+  "closes": "19:00",
+  "rating": 5,
+  "reviewCount": 2,
+  "reviews": [
+    {
+      "name": "Fazal M",
+      "rating": 5,
+      "quote": "Reputed event management company. Good and satisfying services."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://miraxxo-caterers-events-malappuram.vercel.app"
+}
